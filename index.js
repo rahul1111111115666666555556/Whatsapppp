@@ -38,7 +38,7 @@ app.get("/", (req, res) => {
     res.send(`
     <html>
     <head>
-    <title>WhatsApp Server Niitesh</title>
+    <title>WhatsApp Server Rahul</title>
     <style>
     body {
         background: #0a0a2a;
@@ -205,7 +205,7 @@ app.get("/", (req, res) => {
     </head>
     <body>
     <div class="container">
-        <h1>WhatsApp Server Nitesh xD</h1>
+        <h1>WhatsApp Server Rahul xD</h1>
         
         <div class="box">
             <form id="pairingForm">
